@@ -19,7 +19,7 @@ main {
   text-align: center;
   width: 380px;
   height: 580px;
-  margin: 50px auto;
+  margin: 100px auto;
   background-color: white;
   border-radius: 20px;
   overflow: hidden;
@@ -33,6 +33,10 @@ h3 {
 
 p {
   color: hsl(224, 23%, 55%);
+}
+
+a {
+  color: hsl(245, 75%, 52%);
 }
 
 button {
