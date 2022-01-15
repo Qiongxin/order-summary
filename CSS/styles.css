@@ -9,9 +9,6 @@ body {
   background-color: hsl(225, 95%, 94%);
   font-size: 13px;
   font-family: 'Red Hat Display', sans-serif;
-  display: flex;
-  justify-content: center;
-  flex-direction: row;
 }
 
 main {
@@ -19,7 +16,7 @@ main {
   text-align: center;
   width: 380px;
   height: 580px;
-  margin: 100px auto;
+  margin: 50px auto;
   background-color: white;
   border-radius: 20px;
   overflow: hidden;
@@ -103,4 +100,8 @@ button {
 
 .second-btn:hover {
   color: hsl(223, 47%, 23%);
+}
+
+.attribution {
+  text-align: center;
 }
